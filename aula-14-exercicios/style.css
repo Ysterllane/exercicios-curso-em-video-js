@@ -1,0 +1,36 @@
+body{
+    font: normal 16px Arial;
+    margin: auto;
+    background-color:  rgba(132, 0, 255, 0.446);
+}
+header, footer{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(255, 255, 255, 0.784);
+    padding: 20px;
+    width: 280px;
+    text-align: center;
+    border-radius: 20px;
+    margin: auto;
+}
+#input1{
+    width: 150px;
+    font: normal 16px Arial;
+}
+#input2{
+    width: 162px;
+    font: normal 16px Arial;
+}
+#input3{
+    width: 108px;
+    font: normal 16px Arial;
+}
+#contar{
+    background-color:  rgba(132, 0, 255, 0.446);
+    border-radius: 5px;
+    border-color: rgba(0, 0, 0, 0.467);
+    font: normal 16px Arial;
+}
